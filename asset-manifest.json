@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RHGAN-PortfolioWebsite/static/css/main.025e67c0.css",
+    "main.js": "/RHGAN-PortfolioWebsite/static/js/main.a2effc23.js",
+    "index.html": "/RHGAN-PortfolioWebsite/index.html",
+    "main.025e67c0.css.map": "/RHGAN-PortfolioWebsite/static/css/main.025e67c0.css.map",
+    "main.a2effc23.js.map": "/RHGAN-PortfolioWebsite/static/js/main.a2effc23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.025e67c0.css",
+    "static/js/main.a2effc23.js"
+  ]
+}
