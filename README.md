@@ -1,6 +1,6 @@
 # RHGAN-PortfolioWebsite
 
-This is a project portfolio website designed and developed for our capstone project of the CS410 course.
+This is a project portfolio website designed and developed for our capstone project of the CS410 course. <br />
 Our website, supports five components as listed in the navigation bar:
   • Home: Displays a welcome message.
   • What is RHGAN?: Provides a brief summary that explains the concept of our GAN.
